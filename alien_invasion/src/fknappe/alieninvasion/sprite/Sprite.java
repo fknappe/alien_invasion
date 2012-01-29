@@ -1,4 +1,4 @@
-package fknappe.alieninvaison.sprite;
+package fknappe.alieninvasion.sprite;
 
 import java.awt.Graphics;
 import java.awt.Image;

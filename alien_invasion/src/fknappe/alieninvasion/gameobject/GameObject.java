@@ -2,9 +2,9 @@ package fknappe.alieninvasion.gameobject;
 
 import java.awt.Graphics;
 
-import fknappe.alieninvaison.sprite.Sprite;
-import fknappe.alieninvaison.sprite.SpriteStore;
 import fknappe.alieninvasion.collision.BoundingBox;
+import fknappe.alieninvasion.sprite.Sprite;
+import fknappe.alieninvasion.sprite.SpriteStore;
 
 
 public abstract class GameObject {
